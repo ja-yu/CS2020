@@ -1,0 +1,47 @@
+'''
+
+print(...)
+    print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False)
+    
+    Prints the values to a stream, or to sys.stdout by default.
+    Optional keyword arguments:
+    file:  a file-like object (stream); defaults to the current sys.stdout.
+    sep:   string inserted between values, default a space.
+    end:   string appended after the last value, default a newline.
+    flush: whether to forcibly flush the stream.
+
+
+'''
+'''
+string
+    + 連接
+        note: 
+            順序影響 
+            ex: s = "BreakAllCTF{HappyHackingDay}"
+                str = ""
+                for i in s:
+                    str = i + str  # }yaDgnikcaHyppaH{FTCllAkaerB
+                  # str = str + i  # BreakAllCTF{HappyHackingDay}
+                  # str += i       # BreakAllCTF{HappyHackingDay}
+                print(str)
+
+    * 複製
+    
+    str[] 提取部分
+        [0]  提取第一個字元
+        [-1] 提取最後一個字元
+        
+        [start:end:step]
+            start  提取起始位置, default 字串的第一個字元
+            end    提取結尾位置(輸入值-1), default 字串的最後一個字元
+            step   提取的間隔,   default 1
+
+'''
+'''
+ len() 長度, 元素個數
+ 
+ range(start, stop, step)
+     
+
+
+'''
