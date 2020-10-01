@@ -1,9 +1,7 @@
 # 李佳諭
 '''
-寫程式
+    寫程式
 '''
-'''
-
     <!DOCTYPE html>
     <html>
         <head>
@@ -16,11 +14,8 @@
 		    ?>
 	    </body>
     </html>
-
 '''
-
-
-
+'''
     <!DOCTYPE html>
     <html>
     <head>
@@ -33,5 +28,4 @@
 		?>
 	</body>
     </html>
-
 '''
