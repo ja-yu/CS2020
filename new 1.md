@@ -2,7 +2,6 @@
 ```
 寫程式
 ```
-'''
 
 	<!DOCTYPE html>
 	<html>
@@ -15,15 +14,10 @@
 		    echo("<h1><b><i>hello world!<h1><b><i>");
 		?>
 	</body>
-</html>
+	</html>
 
-'''
-
-
-'''
-
-<!DOCTYPE html>
-<html>
+	<!DOCTYPE html>
+	<html>
     <head>
 	    <meta charset = "utf-8">
 		<title>我的第一個PHP程式</title>
@@ -33,6 +27,6 @@
 		    echo("<h1><b><i>hello world!<h1><b><i>");
 		?>
 	</body>
-</html>
+	</html>
 
 '''
