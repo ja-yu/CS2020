@@ -1,4 +1,4 @@
-'''
+```
 
 print(...)
     print(value, ..., sep=' ', end='\n', file=sys.stdout, flush=False)
@@ -11,8 +11,8 @@ print(...)
     flush: whether to forcibly flush the stream.
 
 
-'''
-'''
+```
+```
 string
     + 連接
         note: 
@@ -38,14 +38,14 @@ string
             end    提取結尾位置(輸入值-1)
             step   提取的間隔
 
-'''
-'''
+```
+```
 len(obj, /)
     Return the number of items in a container.
 
 
-'''
-'''
+```
+```
 class list(object)
  |  list() -> new empty list
  |  list(iterable) -> new list initialized from iterable's items
@@ -163,8 +163,8 @@ class list(object)
  |  __hash__ = None
 
 
-'''
-'''
+```
+```
 string
 
 capitalize(...) method of builtins.str instance
@@ -229,8 +229,8 @@ join(...) method of builtins.str instance
     iterable.  The separator between elements is S.
 
 
-'''
-'''
+```
+```
 time
 
 time.localtime([ sec ])
@@ -241,8 +241,8 @@ time.localtime([ sec ])
     sec − These are the number of seconds to be converted into structure struct_time representation.
 
 
-'''
-'''
+```
+```
 sum(iterable, start=0, /)
     Return the sum of a 'start' value (default: 0) plus an iterable of numbers
     
@@ -251,8 +251,8 @@ sum(iterable, start=0, /)
     reject non-numeric types.
 
 
-'''
-'''
+```
+```
 class range(object)
  |  range(stop) -> range object
  |  range(start, stop[, step]) -> range object
@@ -333,4 +333,4 @@ class range(object)
  |  stop
 
 
-'''
+```
