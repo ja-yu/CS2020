@@ -1,4 +1,4 @@
-'''
+```
 xxd -h
 Usage:
        xxd [options] [infile [outfile]]
@@ -24,8 +24,8 @@ Options:
 
 
 
-'''
-'''
+```
+```
 Usage: base64 [OPTION]... [FILE]
 Base64 encode or decode FILE, or standard input, to standard output.
 
@@ -52,8 +52,8 @@ or available locally via: info '(coreutils) base64 invocation'
 
 
 
-'''
-'''
+```
+```
 Usage: ls [OPTION]... [FILE]...
 List information about the FILEs (the current directory by default).
 Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
@@ -173,9 +173,8 @@ Full documentation at: <http://www.gnu.org/software/coreutils/ls>
 or available locally via: info '(coreutils) ls invocation'
 
 
-
-'''
-'''
+```
+```
 find 
 -exec：對搜索的結構指令指定的shell命令。注意格式要正確："-exec 命令 {} \;"。注意“{}” 與\;之間有空格。
 
@@ -209,5 +208,4 @@ find
 
 -size n[cwbkMG] : 檔案大小 為 n 個由後綴決定的數據塊。其中後綴含義為：
 
-
-'''
+```
