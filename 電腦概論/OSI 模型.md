@@ -3,6 +3,7 @@
 https://zh.wikipedia.org/wiki/OSI%E6%A8%A1%E5%9E%8B
 https://ithelp.ithome.com.tw/articles/10000021
 ```
+![OSI](/picture/資訊概論.jpg)
 ```
 開放式系統互聯模型(Open System Interconnection Model)
 ```
