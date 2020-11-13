@@ -1,9 +1,9 @@
 ![xampp](/picture/xampp.png)
 
-![xampp](/picture/xampp.png1)
+![xampp](/picture/xampp1.png)
 
-![xampp](/picture/xampp.png2)
+![xampp](/picture/xampp2.png)
 
-![xampp](/picture/xampp.png3)
+![xampp](/picture/xampp3.png)
 
-![xampp](/picture/xampp.png4)
+![xampp](/picture/xampp4.png)
