@@ -129,6 +129,7 @@ print(type(a))
 
 (A) str   (B) int   (C) float   (D) tuple
 ```
+
 ```
 14.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -137,6 +138,7 @@ print(type(a))
 
 (A) set   (B) dict   (C) list   (D) tuple
 ```
+
 ```
 15.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -145,6 +147,7 @@ print(type(a))
 
 (A) set   (B) dict   (C) list   (D) tuple
 ```
+
 ## 字串1
 ```
 16.試問若要定義一字串變數應填入什麼:
@@ -158,6 +161,7 @@ print(a)
 (C) [Hello Python]
 (D) {"Hello Python"}
 ```
+A
 ```
 17.試問以下程式執行後輸出什麼結果:
 
@@ -167,6 +171,7 @@ print(a[1])
 
 (A) H   (B) e   (C) l   (D) 1
 ```
+B
 ```
 18.要在螢幕輸出llo  底下程式需填入什麼:
 
@@ -176,6 +181,7 @@ print(a[__________])
 
 (A) 4:6   (B) 3:5   (C) 2:5   (D) llo
 ```
+C
 ```
 19.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -187,6 +193,7 @@ print(a.strip())
 (C) HelloPython         
 (D) H e l l o P y t h o n
 ```
+
 ```
 20.試問若要判斷Kun是否存在於txt字串中以下程式應填入什麼:
 #!/usr/bin/python3
