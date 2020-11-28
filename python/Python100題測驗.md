@@ -120,6 +120,7 @@ print(type(a))
 
 (A) str   (B) int   (C) float   (D) tuple
 ```
+A
 ```
 13.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
