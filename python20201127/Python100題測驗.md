@@ -193,7 +193,7 @@ print(a.strip())
 (C) HelloPython         
 (D) H e l l o P y t h o n
 ```
-
+A C
 ```
 20.試問若要判斷Kun是否存在於txt字串中以下程式應填入什麼:
 #!/usr/bin/python3
@@ -206,6 +206,7 @@ print(x)
 (C) ==
 (D) in
 ```
+
 ```
 21.試問若要輸出a、b兩字串合併後的結果以下程式應填入什麼:
 #!/usr/bin/python3
@@ -218,6 +219,7 @@ print(__________)
 (C) ab
 (D) a,b
 ```
+B
 ```
 22.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -230,6 +232,7 @@ print(a + b)
 (C) 100 Kun Shan
 (D) TypeError
 ```
+D
 ## 字串2
 ```
 23.試問以下程式執行後輸出什麼結果:
@@ -243,6 +246,7 @@ print(a.format(b))
 (C) University Kun Shan
 (D) University
 ```
+B
 ```
 24.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -255,6 +259,7 @@ print(a.format(b,‘Hello’))
 (C) {1} Kun Shan {0}
 (D) b,‘Hello’
 ```
+A
 ```
 25.試問若以下程式執行後要輸出一對雙引號需填入什麼:
 #!/usr/bin/python3
@@ -266,6 +271,7 @@ print(a)
 (C) \"\"
 (D) [“”]
 ```
+C
 ```
 26.要在螢幕輸出字串的長度  底下程式需使用哪個函數:
 #!/usr/bin/python3
@@ -277,6 +283,7 @@ print(_______)
 (C) abs(a)
 (D) int(a)
 ```
+A
 ```
 27.試問要英文字母轉為大寫以下程式需填入什麼:
 #!/usr/bin/python3
@@ -288,6 +295,7 @@ print(__________)
 (C) a.upper()
 (D) a.lower()
 ```
+
 ```
 28.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -298,6 +306,7 @@ print(“%s Python! %d” % (“Hello”,123))
 (C) %s Python! %d
 (D) Hello Python! 123
 ```
+D
 ```
 29.若要將字串a中的o替換成x以下程式需填入什麼:
 a = “Hello Python!”
@@ -309,11 +318,13 @@ print(a)
 (C) “Hellx Pythxn!”
 (D) format(“o”,”x”)
 ```
+
 # 3.選擇結構1
 ```
 30.
 if None:
     print("Hello")
+    
 以上程式碼輸出的結果是？
 
 (A) 沒有任何輸出
@@ -321,10 +332,12 @@ if None:
 (C) Hello
 (D) False
 ```
+
 ```
 31.
 if 1:
     print("Hello")
+    
 以上程式碼輸出的結果是？
 
 (A) 沒有任何輸出
@@ -332,10 +345,12 @@ if 1:
 (C) Hello
 (D) False
 ```
+C
 ```
 32.
 if 100:
     print("Hello")
+    
 以上程式碼輸出的結果是？
 
 (A) 沒有任何輸出
@@ -343,10 +358,12 @@ if 100:
 (C) Hello
 (D) False
 ```
+C
 ```
 33.
 if 0:
     print("Hello")
+    
 以上程式碼輸出的結果是？
 
 (A) 沒有任何輸出
@@ -354,10 +371,12 @@ if 0:
 (C) Hello
 (D) False
 ```
+
 ```
 34.
 if 100 == “100”:
     print("Hello")
+    
 以上程式碼輸出的結果是？
 
 (A) 沒有任何輸出
@@ -365,10 +384,12 @@ if 100 == “100”:
 (C) Hello
 (D) False
 ```
+
 ```
 35.
 if 100 == 100:
     print("Hello")
+    
 以上程式碼輸出的結果是？
 
 (A) 沒有任何輸出
@@ -376,10 +397,12 @@ if 100 == 100:
 (C) Hello
 (D) False
 ```
+C
 ```
 36.
 if 100 >= 1:
     print("Hello")
+    
 以上程式碼輸出的結果是？
 
 (A) 沒有任何輸出
@@ -387,6 +410,7 @@ if 100 >= 1:
 (C) Hello
 (D) False
 ```
+C
 ## 選擇結構2
 ```
 37.
@@ -403,6 +427,7 @@ else:
 (C) a
 (D) b
 ```
+A
 ```
 38.
 a = 50
@@ -415,6 +440,7 @@ print("A") if a > b else print("B")
 (C) B
 (D) A
 ```
+C
 ```
 39.
 a = 50
@@ -427,6 +453,7 @@ print("A") if a > b else print("B") if a != b else print("!=")
 (C) B
 (D) 語法錯誤
 ```
+C
 ```
 40.
 a = 77
@@ -441,6 +468,7 @@ if a > b ___ c > a:
 (C) or
 (D) and
 ```
+
 ```
 41.
 a = 0
@@ -455,6 +483,7 @@ if b > a:
 (C) return True
 (D) break
 ```
+
 ```
 42.
 x = 10
@@ -470,6 +499,7 @@ if x >= 10:
 (C) 2
 (D) 0
 ```
+C
 ```
 43.
 a = 33
@@ -489,6 +519,7 @@ elif a == b:
 (C) 1
 (D) 沒有任何結果
 ```
+D
 ## List
 ```
 44.
@@ -500,6 +531,7 @@ cat = ______
 (C) new cat;
 (D) list()
 ```
+
 ```
 45.
 thisislist = [1,2,3,4,5]
@@ -511,6 +543,7 @@ print(__________)
 (C) thisislist[3]
 (D) thisislist[2]
 ```
+D
 ```
 46.
 thisislist = [1,2,3,4,5]
@@ -522,6 +555,7 @@ print(thisislist[-4])
 (C) 3
 (D) 4
 ```
+B
 ```
 47.
 thisislist = [1,2,3,4,5]
@@ -533,6 +567,7 @@ print(thisislist[_________])
 (C) 1-4
 (D) 1-3
 ```
+A
 ```
 48.
 thisislist = [1,2,3,4,5]
@@ -544,6 +579,7 @@ print(thisislist[-5:-3:2])
 (C) 3
 (D) 4
 ```
+A
 ```
 49.
 thisislist = [1,2,3,4,5]
@@ -556,6 +592,7 @@ print(thisislist)
 (C) thisislist[4]
 (D) thisislist[3]
 ```
+D
 ```
 50.
 thisislist = [1,2,3,4,5]
@@ -567,6 +604,7 @@ __________
 (C) thisislist.insert(6)
 (D) thisislist[5] = 6
 ```
+D
 ## Dictionary 資料型態
 ```
 51.
@@ -578,6 +616,7 @@ thisisdict = ________
 (C) dict()
 (D) 123456
 ```
+C
 ```
 52.
 thisisdict = {'a': 1, 'b': 2, 'c': 3}
@@ -590,6 +629,7 @@ print(x)
 (C) thisisdict["b"]
 (D) thisisdict[b]
 ```
+A
 ```
 53.
 thisisdict = {'a': 1, 'b': 2, 'c': 3}
@@ -602,6 +642,7 @@ print(thisisdict)
 (C) thisisdict["b"]
 (D) thisisdict[b]
 ```
+A D
 ```
 54.
 thisisdict = {'a': 1, 'b': 2, 'c': 3}
@@ -614,6 +655,7 @@ if “3” in thisisdict:
 (C) True
 (D) 沒有輸出結果
 ```
+A
 ```
 55.
 thisisdict = {'a': 1, 'b': 2, 'c': 3}
@@ -626,7 +668,7 @@ if “a” in thisisdict:
 (C) True
 (D) 沒有輸出結果
 ```
-
+D
 ```
 56.
 thisisdict1 = dict(a="1", b="2", c=3)
@@ -638,6 +680,7 @@ print(thisisdict1)
 (C) {}
 (D) {'1': 'a', '2': 'b', '3': c}
 ```
+B
 ```
 57.
 thisisdict1 = dict(a="1", b="2", c=3)
@@ -650,6 +693,7 @@ print(thisisdict1)
 (C) ['a': '1', 'c': 3]
 (D) ['a': '1', 'b': '2', 'c': 3]
 ```
+A
 # Loop迴圈
 ## while迴圈1
 ```
@@ -665,6 +709,7 @@ while i < 60:
 (C) 20
 (D) 0
 ```
+
 ```
 59.
 i = 20
@@ -678,6 +723,7 @@ print(i)
 (C) 20
 (D) 0
 ```
+B
 ```
 60.
 i = 20
@@ -690,6 +736,7 @@ while i == 20:
 (C) 程式不會輸出任何訊息
 (D) 語法錯誤
 ```
+A
 ```
 61.
 i = 20
@@ -703,6 +750,7 @@ while i == 20:
 (C) break
 (D) return True
 ```
+C
 ```
 62.
 i = 100
@@ -718,6 +766,7 @@ print(a)
 (C) 0
 (D) -1
 ```
+A
 ```
 63.
 i = 10
@@ -733,6 +782,7 @@ while i < 15:
 (C) 10、11
 (D) 11、12
 ```
+D
 ```
 64.
 i = 1
@@ -746,6 +796,7 @@ _____ i < 3:
 (C) for
 (D) if
 ```
+B
 ## for迴圈1
 ```
 65.
@@ -758,6 +809,7 @@ ________ x ______ [0, 1, 2]_____
 (C) for in {}
 (D) for in :
 ```
+D
 ```
 66.
 for x in [0, 1, 2]:
@@ -769,6 +821,7 @@ for x in [0, 1, 2]:
 (C) 0、1、2
 (D) x
 ```
+C
 ```
 67.
 for x in "Python for loop.":
@@ -781,6 +834,7 @@ print(x)
 (C) “ ” not in x
 (D) x != “ ”
 ```
+
 ```
 68.
 for x in [0, 1, 2,3]:
@@ -794,6 +848,7 @@ for x in [0, 1, 2,3]:
 (C) pause
 (D) exit
 ```
+A
 ```
 69.
 for x in range(6):
@@ -805,6 +860,7 @@ for x in range(6):
 (C) 輸出6
 (D) 輸出隨機的6個數字
 ```
+B
 ```
 70.
 for x in range(20, 15, _____):
@@ -816,6 +872,7 @@ for x in range(20, 15, _____):
 (C) ++2
 (D) 2++
 ```
+A
 ```
 71.
 for x in [3,4,5]:
@@ -828,6 +885,7 @@ print(“ok”)
 (C) end
 (D) 無法做到
 ```
+
 # 函數Function
 ## 自訂函數1
 ```
@@ -842,6 +900,7 @@ _______________:
 (C) def print_funtion()
 (D) DWORD print_funtion()
 ```
+C
 ```
 73.
 def print_funtion():
@@ -855,6 +914,7 @@ ____________
 (C) print_funtion()
 (D) call print_funtion
 ```
+C
 ```
 74.
 def add(a,b):
@@ -868,6 +928,7 @@ print(_______)
 (C) add(150)
 (D) add()
 ```
+A
 ```
 75.
 def print_name(yourname):
@@ -881,6 +942,7 @@ print_name ("Steve Jobs")
 (C) yourname
 (D) Steve Jobs
 ```
+D
 ```
 76.
 def hello(greeting='Hello', name='world'): 
@@ -894,6 +956,7 @@ hello_3()
 (C) greeting, name!
 (D) '{}, {}!'.format(greeting, name)
 ```
+A
 ```
 77.
 def hello(greeting='Hello', name='world'): 
@@ -907,6 +970,7 @@ hello_3('great', 'universe')
 (C) great, universe!
 (D) '{}, {}!'.format(greeting, name)
 ```
+A
 ```
 78.
 def hello(greeting='Hello', name='world'): 
@@ -920,6 +984,7 @@ hello_3(name = 'great')
 (C) '{}, {}!'.format(greeting, name)
 (D) Hello, great!
 ```
+A
 ## 匿名函數Lambda
 ```
 79.
@@ -931,6 +996,7 @@ x = ___________
 (C) lambda y : x
 (D) lambda x : y
 ```
+
 ```
 80.
 x = lambda y : ______
@@ -941,6 +1007,7 @@ x = lambda y : ______
 (C) 100
 (D) 0
 ```
+A
 ```
 81.
 x = lambda y : y + 100
@@ -952,6 +1019,7 @@ print(x(10))
 (C) 110
 (D) 200
 ```
+C
 ```
 82.
 x = lambda ___________
@@ -963,6 +1031,7 @@ print(x(3, 3))
 (C) a * b
 (D) a, b
 ```
+B
 ```
 83.
 def func(x):
@@ -975,6 +1044,7 @@ print(a(8))
 (A) (1) 7  (2) a*x      (B) (1) a*x  (2) 7
 (C) (1) 7  (2) a*a      (D) a*a    (2) 7
 ```
+
 ```
 84.
 def func(n):
@@ -989,6 +1059,7 @@ print(a(10))
 (C) 150
 (D) 25
 ```
+
 ```
 85.
 hard_func = lambda y, func: y + func(y)
@@ -1000,6 +1071,7 @@ hard_func (5, lambda y: y * y)
 (C) 30
 (D) 100
 ```
+
 ### Python有許多內建函數(Built in Functions),底下考你對內建函數()的知識
 ### 參考來源:https://www.w3schools.com/python/python_ref_functions.asp
 ### 內建函數的小測驗:
@@ -1010,6 +1082,7 @@ abs(3+4J)
 
 (A) 5.0   (B) 3.0   (C) 4.0   (D) 34.0
 ```
+
 ```
 87.
 底下輸出結果為何?
