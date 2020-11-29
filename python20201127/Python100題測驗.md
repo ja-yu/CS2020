@@ -461,14 +461,14 @@ b = 10
 c = 0
 if a > b ___ c > a:
   print("True")
-若要讓程式印出Hello World!需在___中填入什麼？
+若要讓程式印出True需在___中填入什麼？
 
 (A) not in
 (B) not
 (C) or
 (D) and
 ```
-
+C
 ```
 41.
 a = 0
@@ -483,7 +483,7 @@ if b > a:
 (C) return True
 (D) break
 ```
-
+A
 ```
 42.
 x = 10
