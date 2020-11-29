@@ -219,7 +219,7 @@ print(__________)
 (C) ab
 (D) a,b
 ```
-B
+B D
 ```
 22.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -295,7 +295,7 @@ print(__________)
 (C) a.upper()
 (D) a.lower()
 ```
-
+C
 ```
 28.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -318,7 +318,7 @@ print(a)
 (C) “Hellx Pythxn!”
 (D) format(“o”,”x”)
 ```
-
+A
 # 3.選擇結構1
 ```
 30.
@@ -332,7 +332,7 @@ if None:
 (C) Hello
 (D) False
 ```
-
+A
 ```
 31.
 if 1:
@@ -371,7 +371,7 @@ if 0:
 (C) Hello
 (D) False
 ```
-
+A
 ```
 34.
 if 100 == “100”:
@@ -384,7 +384,7 @@ if 100 == “100”:
 (C) Hello
 (D) False
 ```
-
+A
 ```
 35.
 if 100 == 100:
