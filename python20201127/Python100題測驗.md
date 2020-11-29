@@ -885,11 +885,10 @@ print(“ok”)
 (C) end
 (D) 無法做到
 ```
-
+A
 # 函數Function
 ## 自訂函數1
 ```
-
 72.
 _______________:
   print("Hello print_function")
