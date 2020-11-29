@@ -616,7 +616,7 @@ thisisdict = ________
 (C) dict()
 (D) 123456
 ```
-C
+B C
 ```
 52.
 thisisdict = {'a': 1, 'b': 2, 'c': 3}
@@ -629,7 +629,7 @@ print(x)
 (C) thisisdict["b"]
 (D) thisisdict[b]
 ```
-A
+C
 ```
 53.
 thisisdict = {'a': 1, 'b': 2, 'c': 3}
@@ -642,7 +642,7 @@ print(thisisdict)
 (C) thisisdict["b"]
 (D) thisisdict[b]
 ```
-A D
+C
 ```
 54.
 thisisdict = {'a': 1, 'b': 2, 'c': 3}
@@ -655,7 +655,7 @@ if “3” in thisisdict:
 (C) True
 (D) 沒有輸出結果
 ```
-A
+D
 ```
 55.
 thisisdict = {'a': 1, 'b': 2, 'c': 3}
@@ -668,7 +668,7 @@ if “a” in thisisdict:
 (C) True
 (D) 沒有輸出結果
 ```
-D
+A
 ```
 56.
 thisisdict1 = dict(a="1", b="2", c=3)
@@ -709,7 +709,7 @@ while i < 60:
 (C) 20
 (D) 0
 ```
-
+A (20～59)
 ```
 59.
 i = 20
@@ -778,7 +778,7 @@ while i < 15:
 以上程式碼輸出的結果是？
 
 (A) 15
-(B) 13、14
+(B) 13、145
 (C) 10、11
 (D) 11、12
 ```
