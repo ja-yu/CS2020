@@ -531,7 +531,7 @@ cat = ______
 (C) new cat;
 (D) list()
 ```
-
+A D
 ```
 45.
 thisislist = [1,2,3,4,5]
@@ -604,7 +604,7 @@ __________
 (C) thisislist.insert(6)
 (D) thisislist[5] = 6
 ```
-D
+A
 ## Dictionary 資料型態
 ```
 51.
