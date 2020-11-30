@@ -947,7 +947,7 @@ D
 def hello(greeting='Hello', name='world'): 
     print('{}, {}!'.format(greeting, name)) 
 
-hello_3()
+hello()
 以上程式碼輸出的結果是？
 
 (A) 沒有輸出
@@ -955,13 +955,13 @@ hello_3()
 (C) greeting, name!
 (D) '{}, {}!'.format(greeting, name)
 ```
-A
+B
 ```
 77.
 def hello(greeting='Hello', name='world'): 
     print('{}, {}!'.format(greeting, name)) 
 
-hello_3('great', 'universe')
+hello('great', 'universe')
 以上程式碼輸出的結果是？
 
 (A) 沒有輸出
@@ -969,13 +969,13 @@ hello_3('great', 'universe')
 (C) great, universe!
 (D) '{}, {}!'.format(greeting, name)
 ```
-A
+C
 ```
 78.
 def hello(greeting='Hello', name='world'): 
     print('{}, {}!'.format(name, greeting)) 
 
-hello_3(name = 'great')
+hello(name = 'great')
 以上程式碼輸出的結果是？
 
 (A) 沒有輸出
@@ -983,7 +983,8 @@ hello_3(name = 'great')
 (C) '{}, {}!'.format(greeting, name)
 (D) Hello, great!
 ```
-A
+great, Hello!
+
 ## 匿名函數Lambda
 ```
 79.
@@ -995,7 +996,7 @@ x = ___________
 (C) lambda y : x
 (D) lambda x : y
 ```
-
+A
 ```
 80.
 x = lambda y : ______
