@@ -1042,9 +1042,9 @@ print(a(8))
 定義一個a函數使輸入的值能以7倍的值輸出需填入什麼？
 
 (A) (1) 7  (2) a*x      (B) (1) a*x  (2) 7
-(C) (1) 7  (2) a*a      (D) a*a    (2) 7
+(C) (1) 7  (2) a*a      (D) (1) a*a  (2) 7
 ```
-
+A
 ```
 84.
 def func(n):
@@ -1059,7 +1059,7 @@ print(a(10))
 (C) 150
 (D) 25
 ```
-
+B
 ```
 85.
 hard_func = lambda y, func: y + func(y)
@@ -1071,7 +1071,7 @@ hard_func (5, lambda y: y * y)
 (C) 30
 (D) 100
 ```
-
+C
 ### Python有許多內建函數(Built in Functions),底下考你對內建函數()的知識
 ### 參考來源:https://www.w3schools.com/python/python_ref_functions.asp
 ### 內建函數的小測驗:
@@ -1082,7 +1082,7 @@ abs(3+4J)
 
 (A) 5.0   (B) 3.0   (C) 4.0   (D) 34.0
 ```
-
+A
 ```
 87.
 底下輸出結果為何?
@@ -1156,7 +1156,7 @@ print(x)
 (C) 0
 (D) 97
 ```
-A
+D
 ```
 93.
 底下輸出結果為何?
